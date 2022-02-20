@@ -1,11 +1,13 @@
 # Electrothon_InnovativelyBold
 ## This website is live at https://icoderharshit.github.io/Electrothon_InnovativelyBold
 
+### For Patient
+Use email : "iharshitsharma@outlook.com" ,
+password : 12345678 for judging and testing purposes
 
-Use email : "" ,
-password : 12345678 for judging and testing purpose
-
-
+### For Doctor
+Use email : "ibhavikamalhotra@outlook.com" ,
+password : 12345678 for judging and testing purposes
 
 # DawaiHaq
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
