@@ -65,8 +65,8 @@ function verifyQr(uid) {
 
   userId = uid;
   // firebase.database().ref('/Users/' + userId).set({
-  //     FirstName: "Deepak",
-  //     LastName: "Singh",
+  //     FirstName: "Harshit",
+  //     LastName: "Sharma",
   //     Type: "Doctor",
   //     Phone: "Tel",
   //     Address: "Address",
